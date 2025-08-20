@@ -1,6 +1,6 @@
 # Árvores de Habilidades
 
-Reposito teste do Biolab
+Repositório teste do Biolab
 
 ## Kombucha
 
